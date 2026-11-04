@@ -52,12 +52,12 @@ need a datacenter.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AdV1PeR&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdV1PeR&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdV1PeR&theme=tokyonight" alt="Profile summary" />
 
-<img src="https://streak-stats.demolab.com?user=AdV1PeR&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdV1PeR&theme=tokyonight" alt="Languages by repo" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdV1PeR&theme=tokyonight" alt="Languages by commits" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdV1PeR&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity graph" />
+<img src="https://streak-stats.demolab.com?user=AdV1PeR&theme=tokyonight&hide_border=true&background=1A1B26" alt="Streak" />
 
 </div>
 
